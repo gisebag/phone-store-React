@@ -12,7 +12,10 @@ Cuenta con diseño responsivo para pc, tablet y móvil.
 - Contacto.
 
 ### Home
-En esta vista se encuentran todos los productos de la tienda (Link al home en el logo). 
+En esta vista se encuentra un saludo de bienvenida y todos los productos de la tienda 
+![portada](./public/portada.png)
+![producto](./public/producto.png)
+
 
 ### Categorías
 En cada vista se muestran solo los productos correspondientes a la categoría seleccionada.
@@ -20,11 +23,11 @@ En cada vista se muestran solo los productos correspondientes a la categoría se
 ### Contacto
 Formulario para enviar consultas. Su funcionamiento actualmente simula el comportamiento de un formulario real.
 
-### Registrarse e Iniciar sesión
-Aún sin funcionalidad.
 
 ### Cart
 En esta vista se muestran los productos seleccionados por el usuario para ser adquiridos.
+
+
 
 ### Detalles de producto
 Haciendo click en el botón "+ Info" de cada producto accedemos a la vista con todos las especificaciones de ese producto particular.
@@ -34,7 +37,7 @@ Haciendo click en el botón "+ Info" de cada producto accedemos a la vista con t
 - En el directorio raiz del proyecto correr el comando npm install para instalar todas las dependencias del proyecto.
 - Usar npm start para correr la app y verla en el navegador. Se abrirá http://localhost:3000. La página se recargará cada vez que se haga un cambio. Pueden visualizarse los errores por consola.
 
-## Dependencias y tecnologías
+> Dependencias y tecnologías
 - React.
 - Javascript.
 - Vanilla CSS para dar estilo al proyecto.
