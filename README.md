@@ -1,6 +1,6 @@
-# PedalStore
+# Phone Store
 ## Proyecto para curso de ReactJS
-PedalStore es un e-commerce de pedales de guitarra eléctrica.
+Phone Store es un e-commerce de celulares.
 
 El sitio es una SPA (Single Page Application).
 Cuenta con diseño responsivo para pc, tablet y móvil.
@@ -29,9 +29,6 @@ En esta vista se muestran los productos seleccionados por el usuario para ser ad
 ### Detalles de producto
 Haciendo click en el botón "+ Info" de cada producto accedemos a la vista con todos las especificaciones de ese producto particular.
 
-## Apariencia y funcionamiento de la App
-![](./gif/pedalstore.gif)
-
 ## Instalación
 - Clonar el repositorio con el comand git clone (url del gh del proyecto).
 - En el directorio raiz del proyecto correr el comando npm install para instalar todas las dependencias del proyecto.
@@ -45,11 +42,4 @@ Haciendo click en el botón "+ Info" de cada producto accedemos a la vista con t
 - React Router Dom para la navegación.
 - Sweetalert2. 
 - Firebase.
-
-### Deploy
-https://mariomass-pedalstore.netlify.app/
-
-### Autor: Mario Massonnat - [MarucoMass](https://github.com/MarucoMass)
-
-### 2022 - Curso de ReactJS en CoderHouse
 
