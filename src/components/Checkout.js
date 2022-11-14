@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
     return(
         <>
-            <Link to='/cart'><button className="btnCheck">Conformar</button></Link>
+            <Link to='/cart'><button className="btnCheck">Confirmar</button></Link>
         </>
     );
 }

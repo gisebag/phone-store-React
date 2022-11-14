@@ -14,7 +14,7 @@ const Footer = () => {
                     <div className="redes_box"><a href=""><img src={Instagram} alt="imagen de las redes" /></a><div className="footerDark"></div></div>
                 </div>
             </div>
-            <p>Sitio web para el curso de Coder House.<br />Copyright 2022 Bagialemani. All rights reserved.</p>
+            <p>Sitio web para el curso de React Js. de Coder House.<br />Copyright 2022 Bagialemani. All rights reserved.</p>
         </div>
     );
 }
