@@ -39,7 +39,7 @@ Haciendo click en el botón "+ Info" de cada producto accedemos a la vista con t
 
 ## Para ver el sitio
 - Ir al repo [hacé clik aquí](https://github.com/gisebag/phone-store-React.git)
-- Deploy [hacé clik aquí](https://smartphone-store-reactjs.netlify.app/)
+- Ir al sitio [hacé clik aquí](https://smartphone-store-reactjs.netlify.app/)
 
 
 > Dependencias y tecnologías
