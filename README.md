@@ -37,6 +37,11 @@ Haciendo click en el botón "+ Info" de cada producto accedemos a la vista con t
 - En el directorio raiz del proyecto correr el comando npm install para instalar todas las dependencias del proyecto.
 - Usar npm start para correr la app y verla en el navegador. Se abrirá http://localhost:3000. La página se recargará cada vez que se haga un cambio. Pueden visualizarse los errores por consola.
 
+## Para ver el sitio
+- Ir al repo [hacé clik aquí](https://github.com/gisebag/phone-store-React.git)
+- Deploy [hacé clik aquí](https://smartphone-store-reactjs.netlify.app/)
+
+
 > Dependencias y tecnologías
 - React.
 - Javascript.
